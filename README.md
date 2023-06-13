@@ -1,3 +1,7 @@
+#Information
+
+I have made this Task Tracker app to track your tasks. I have used json server to store the data, you can add new tasks, edit/update the task, delete the tasks.
+
 # Tasktracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
